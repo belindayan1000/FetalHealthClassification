@@ -1,10 +1,5 @@
-# COGS118A Project template
-This is your group repo for your final project for COGS118A
-
-This repository is publicly visible! We will be using that feature to do peer review of projects.
-
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook).
-
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+# Fetal Health Classification
+This repository contains a Jupyter Notebook containing the checkpoint for this project, a Jupyter Notebook containing the final proposal for the project, and the CSV file for the data that was 
+used in the project. In this project, we used data from measurements taken from fetuses in order to train machine learning models to predict whether a fetus is healthy or not based on 
+the data that was fed into the training set. Our goal with this project was to develop a model that would be able to accurately predict this with 80% accuracy, which was accomplished at
+the end of the project.
